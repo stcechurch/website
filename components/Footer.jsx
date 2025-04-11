@@ -11,7 +11,7 @@ export const Footer = () => {
     window.location.href = mailtoLink;
   };
 
-  const brochureLink = 'https://drive.google.com/file/d/1jaxthDyjfGIHZDEuIaMNJEoCz00N_MFs/view?usp=sharing';
+  const brochureLink = 'https://drive.google.com/file/d/1fyojp78Jq8yEkuhF7WZv6Yoa-l41H5QR/view?usp=sharing';
 
   return (
     <div className="bg-neutral-800 p-5">
