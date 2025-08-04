@@ -1,7 +1,7 @@
 import { Button } from '@mui/material';
 
 export const Whatsapp = () => {
-  const whatsappLink = "https://chat.whatsapp.com/CyYLJzscw438whJsZvDJRa"; // Link to your WhatsApp group
+  const whatsappLink = "https://chat.whatsapp.com/DDKXevnKUEtIRv7z33Bhz1?mode=ac_t"; // Link to your WhatsApp group
 
   return (
     <div className="h-[35vh] bg-stone-100 flex justify-center text-center">
