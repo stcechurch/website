@@ -78,7 +78,7 @@ export const Contact = () => {
 
                     <p className="flex flex-col items-start text-sm uppercase mt-2">
                         <span className="flex items-center">
-                            <a href="https://chat.whatsapp.com/CyYLJzscw438whJsZvDJRa" target="_blank" rel="noopener noreferrer" className="flex items-center hover:underline">
+                            <a href="https://chat.whatsapp.com/DDKXevnKUEtIRv7z33Bhz1?mode=ac_t" target="_blank" rel="noopener noreferrer" className="flex items-center hover:underline">
                                 <FaWhatsapp className="w-5 h-5 text-green-500 mr-2" />
                                 WhatsApp
                             </a>
