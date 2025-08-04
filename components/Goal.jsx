@@ -15,9 +15,7 @@ export const Goal = () => {
             2000 years ago.
             <br />
             <br />
-            The provision of forgiveness was made possible through the death,
-            burial and resurrection of Jesus Christ 2000 years ago. The
-            believers are saved from the wrath of God which is reserved for
+            The believers are saved from the wrath of God which is reserved for
             those whose sins are not forgiven and those who do not believe in
             His Son Jesus Christ.
             <br />
