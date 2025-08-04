@@ -84,7 +84,7 @@ export const Contact = () => {
                             </a>
                         </span>
                         <span className="flex items-center mt-2">
-                            <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="flex items-center hover:underline">
+                            <a href="https://www.youtube.com/@STCEChurch" target="_blank" rel="noopener noreferrer" className="flex items-center hover:underline">
                                 <FaYoutube className="w-5 h-5 text-[#FF0000] mr-2" />
                                 YouTube
                             </a>
